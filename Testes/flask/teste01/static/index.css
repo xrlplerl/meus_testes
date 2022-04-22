@@ -1,0 +1,35 @@
+* {
+
+    margin:0px;
+    padding:0px;
+
+}
+
+.formulario {
+
+    margin-top:20vh;
+
+}
+
+
+.formulario input {
+
+    text-align:center;
+    width:20vw;
+    height:6vh;
+    border-radius:40px;
+    border-style:solid;
+    border-color:#000;
+    margin:10px;
+
+}
+
+.formulario button {
+
+    margin:15px;
+    width:8vw;
+    height:6vh;
+    border:1px solid #000;
+    border-radius:40px;
+
+} 

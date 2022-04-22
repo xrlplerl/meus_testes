@@ -1,0 +1,71 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+    font-family:Arial;
+    font-style:bold;
+
+}
+
+body {
+
+    background: #fff;
+
+}
+
+.buttons {
+
+    display: block;
+    position: relative;
+    top: 10px;
+    left: 42.5%;
+    width: 300px;
+
+}
+
+.buttons button {
+
+    padding: 10px;
+
+}
+
+.inputs {
+
+    display: block;
+    position: relative;
+    top: 40px;
+    left: 40%;
+
+}
+
+.inputs input {
+
+    margin: 10px;
+    padding: 10px;
+    width: 300px;
+
+}
+
+.tables {
+
+    display: block;
+    position: relative;
+    top: 110px;
+    left: 20%;
+
+}
+
+.tables table {
+
+    padding: 10px;
+    width: 1000px;
+
+}
+
+.tables table tr td {
+
+    margin: 0px;
+    padding: 10px;
+    border-style: solid;
+
+}

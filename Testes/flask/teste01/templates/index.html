@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='index.css')}}">
+    <title>{{titulo}}</title>
+</head>
+<body>
+    <form action="./" method="POST">
+        <center>
+            <div class="formulario">
+                <input type="email" name="email" placeholder="Seu email"><br>
+                <input type="text" name="titulo" placeholder="Titulo"><br>
+                <input type="text" name="msg" placeholder="MSG"><br>
+                <button type="submit">Enviar</button>
+            </div>
+        </center>
+    </form>
+</body>
+</html>

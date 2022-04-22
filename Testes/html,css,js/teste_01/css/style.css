@@ -1,0 +1,26 @@
+body{
+
+    background-color: rgb(211, 230, 230);
+
+}
+
+.corpo_form {
+
+    display:block;
+    position:absolute;
+    background:#fff;
+    width:800px;
+    height:740px;
+    left:25%;
+    top:20px;
+    border-radius:40px;
+    font-family:Arial;
+    font-style:bold;
+
+}
+
+.campos {
+
+    text-align: center;
+
+}
